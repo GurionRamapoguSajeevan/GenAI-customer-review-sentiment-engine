@@ -117,7 +117,7 @@ Contributions welcome! Fork the repo, create a branch, and submit a pull request
 MIT License. See [LICENSE](LICENSE) for details.
 
 ## Contact
-- [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]([GurionRamapoguSajeevan](https://github.com/GurionRamapoguSajeevan))
+- [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GurionRamapoguSajeevan)
 - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rs-gurion/)
 - [![Email](https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gurion7007@gmail.com)
 
