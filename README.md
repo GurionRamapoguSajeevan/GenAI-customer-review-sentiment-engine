@@ -117,8 +117,8 @@ Contributions welcome! Fork the repo, create a branch, and submit a pull request
 MIT License. See [LICENSE](LICENSE) for details.
 
 ## Contact
-- GitHub: [GurionRamapoguSajeevan](https://github.com/GurionRamapoguSajeevan)
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/rs-gurion/)
-- Email: gurion7007@gmail.com
+- [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]([GurionRamapoguSajeevan](https://github.com/GurionRamapoguSajeevan))
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rs-gurion/)
+- [![Email](https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gurion7007@gmail.com)
 
 Built as a personal project to showcase AI and analytics skills. Feedback appreciated!
