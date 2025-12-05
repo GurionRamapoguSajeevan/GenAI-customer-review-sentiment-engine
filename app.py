@@ -212,8 +212,9 @@ else:
 display_cols = ['reviewText', 'overall', 'sentiment', 'theme_label', 'pain_point', 'suggestion']
 
 # Use st.expander for a cleaner layout
-with st.expander(f"View {len(details_df)} Sample Reviews (Double-click to expand)"):
+with st.expander(f"View {len(details_df)} Sample Reviews (Click to expand)"):
     st.dataframe(details_df[display_cols], height=300)
 
 st.markdown("---")
 st.markdown("Built with **Streamlit, Python, and HuggingFace AI models** for portfolio demonstration.")
+
