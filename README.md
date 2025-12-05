@@ -99,11 +99,23 @@ Processed output is saved as `processed_reviews.csv` with added columns: `cleane
 
 ### Dashboard Overview
 
-<img width="1742" height="632" alt="image" src="https://github.com/user-attachments/assets/a1668ac6-1b6a-4613-8f1b-9dea9d4ef7a8" />
+<img width="1759" height="884" alt="image" src="https://github.com/user-attachments/assets/adf82dd8-21e3-477f-b3ad-6655dcea41b0" />
 
-### Sentiment Distribution Chart
+### Sentiment Distribution Chart and Top Themes by Review Count
 
-<img width="1691" height="890" alt="image" src="https://github.com/user-attachments/assets/04a7bc95-dbbd-4e37-ba6d-c0f7ee58c436" />
+<img width="1891" height="664" alt="image" src="https://github.com/user-attachments/assets/e00f2b40-8bdf-432a-93c2-ec038fc4bb90" />
+
+### Sentiment Breakdown by Theme
+
+<img width="1793" height="749" alt="image" src="https://github.com/user-attachments/assets/ae997a14-2f13-4b4c-abf8-26574e9c47d2" />
+
+### Common complaints and Suggestions for improvement
+
+<img width="1805" height="759" alt="image" src="https://github.com/user-attachments/assets/9bb87d83-cc86-4210-a186-a4f46ae06e46" />
+
+### Engine's Sentiment Review details
+
+<img width="1774" height="586" alt="image" src="https://github.com/user-attachments/assets/8fd03e4b-8c50-40c7-8430-12285a25f41f" />
 
 ## Limitations & Improvements
 - Dataset size: Tested on ~5k reviews; scale up with more RAM/GPU.
@@ -121,4 +133,4 @@ MIT License. See [LICENSE](LICENSE) for details.
 - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rs-gurion/)
 - [![Email](https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gurion7007@gmail.com)
 
-Built as a personal project to showcase AI and analytics skills. Feedback appreciated!
+Built as a personal project to showcase AI and analytics skills. Any feedback will be appreciated!
