@@ -1,7 +1,7 @@
 # GenAI-Powered Customer Review Insights & Sentiment Engine
 AI-powered customer review insights and sentiment engine for Amazon product reviews using NLP, LLMs, and interactive analytics.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app) <!-- Replace with your actual deployed URL if available -->
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://genai-customer-review-sentiment-engine-srj4wycgcugxaxpaxuvxtd.streamlit.app/) <!-- Replace with your actual deployed URL if available -->
 
 ## Overview
 
