@@ -1,0 +1,12 @@
+# requirements.txt (updated for Streamlit issues)
+pandas
+numpy
+nltk
+spacy
+scikit-learn
+transformers
+matplotlib
+seaborn
+plotly
+streamlit
+en_core_web_sm
