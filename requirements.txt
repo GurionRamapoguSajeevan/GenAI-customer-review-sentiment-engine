@@ -1,14 +1,16 @@
 # requirements.txt (updated for Streamlit issues)
 pandas
-numpy
-nltk
-spacy
-scikit-learn
-transformers
 matplotlib
 seaborn
 plotly
 streamlit
-https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
+
+
+# numpy
+# nltk
+# spacy
+# scikit-learn
+# transformers
+#https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
 
 # en_core_web_sm
